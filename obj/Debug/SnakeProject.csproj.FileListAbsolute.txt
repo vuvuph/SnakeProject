@@ -1,0 +1,10 @@
+C:\Users\Vu Phan\source\repos\SnakeProject\obj\Debug\SnakeProject.csproj.AssemblyReference.cache
+C:\Users\Vu Phan\source\repos\SnakeProject\obj\Debug\SnakeProject.Properties.Resources.resources
+C:\Users\Vu Phan\source\repos\SnakeProject\obj\Debug\SnakeProject.csproj.GenerateResource.cache
+C:\Users\Vu Phan\source\repos\SnakeProject\obj\Debug\SnakeProject.csproj.CoreCompileInputs.cache
+C:\Users\Vu Phan\source\repos\SnakeProject\bin\Debug\SnakeProject.exe.config
+C:\Users\Vu Phan\source\repos\SnakeProject\bin\Debug\SnakeProject.exe
+C:\Users\Vu Phan\source\repos\SnakeProject\bin\Debug\SnakeProject.pdb
+C:\Users\Vu Phan\source\repos\SnakeProject\obj\Debug\SnakeProject.exe
+C:\Users\Vu Phan\source\repos\SnakeProject\obj\Debug\SnakeProject.pdb
+C:\Users\Vu Phan\source\repos\SnakeProject\obj\Debug\Snake.SnakeForm.resources
