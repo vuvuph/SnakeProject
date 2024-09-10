@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Vu Phan\\source\\repos\\SnakeProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E3BB60A-CE56-48C6-BAE7-A83DD7DDFBEE}|SnakeProject.csproj|c:\\users\\vu phan\\source\\repos\\snakeproject\\snakeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E3BB60A-CE56-48C6-BAE7-A83DD7DDFBEE}|SnakeProject.csproj|solutionrelative:snakeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2E3BB60A-CE56-48C6-BAE7-A83DD7DDFBEE}|SnakeProject.csproj|c:\\users\\vu phan\\source\\repos\\snakeproject\\snakegame\\highscores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3BB60A-CE56-48C6-BAE7-A83DD7DDFBEE}|SnakeProject.csproj|solutionrelative:snakegame\\highscores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E3BB60A-CE56-48C6-BAE7-A83DD7DDFBEE}|SnakeProject.csproj|c:\\users\\vu phan\\source\\repos\\snakeproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E3BB60A-CE56-48C6-BAE7-A83DD7DDFBEE}|SnakeProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2E3BB60A-CE56-48C6-BAE7-A83DD7DDFBEE}|SnakeProject.csproj|C:\\Users\\Vu Phan\\source\\repos\\SnakeProject\\snakegame\\snakeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E3BB60A-CE56-48C6-BAE7-A83DD7DDFBEE}|SnakeProject.csproj|solutionrelative:snakegame\\snakeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E3BB60A-CE56-48C6-BAE7-A83DD7DDFBEE}|SnakeProject.csproj|c:\\users\\vu phan\\source\\repos\\snakeproject\\snakeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E3BB60A-CE56-48C6-BAE7-A83DD7DDFBEE}|SnakeProject.csproj|solutionrelative:snakeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2E3BB60A-CE56-48C6-BAE7-A83DD7DDFBEE}|SnakeProject.csproj|C:\\Users\\Vu Phan\\source\\repos\\SnakeProject\\snakegame\\snakeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3BB60A-CE56-48C6-BAE7-A83DD7DDFBEE}|SnakeProject.csproj|solutionrelative:snakegame\\snakeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E3BB60A-CE56-48C6-BAE7-A83DD7DDFBEE}|SnakeProject.csproj|c:\\users\\vu phan\\source\\repos\\snakeproject\\snakeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2E3BB60A-CE56-48C6-BAE7-A83DD7DDFBEE}|SnakeProject.csproj|solutionrelative:snakeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2E3BB60A-CE56-48C6-BAE7-A83DD7DDFBEE}|SnakeProject.csproj|C:\\Users\\Vu Phan\\source\\repos\\SnakeProject\\snakegame\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3BB60A-CE56-48C6-BAE7-A83DD7DDFBEE}|SnakeProject.csproj|solutionrelative:snakegame\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E3BB60A-CE56-48C6-BAE7-A83DD7DDFBEE}|SnakeProject.csproj|c:\\users\\vu phan\\source\\repos\\snakeproject\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E3BB60A-CE56-48C6-BAE7-A83DD7DDFBEE}|SnakeProject.csproj|solutionrelative:settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2E3BB60A-CE56-48C6-BAE7-A83DD7DDFBEE}|SnakeProject.csproj|C:\\Users\\Vu Phan\\source\\repos\\SnakeProject\\snakegame\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3BB60A-CE56-48C6-BAE7-A83DD7DDFBEE}|SnakeProject.csproj|solutionrelative:snakegame\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E3BB60A-CE56-48C6-BAE7-A83DD7DDFBEE}|SnakeProject.csproj|c:\\users\\vu phan\\source\\repos\\snakeproject\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E3BB60A-CE56-48C6-BAE7-A83DD7DDFBEE}|SnakeProject.csproj|solutionrelative:input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2E3BB60A-CE56-48C6-BAE7-A83DD7DDFBEE}|SnakeProject.csproj|C:\\Users\\Vu Phan\\source\\repos\\SnakeProject\\snakegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3BB60A-CE56-48C6-BAE7-A83DD7DDFBEE}|SnakeProject.csproj|solutionrelative:snakegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E3BB60A-CE56-48C6-BAE7-A83DD7DDFBEE}|SnakeProject.csproj|c:\\users\\vu phan\\source\\repos\\snakeproject\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E3BB60A-CE56-48C6-BAE7-A83DD7DDFBEE}|SnakeProject.csproj|solutionrelative:circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2E3BB60A-CE56-48C6-BAE7-A83DD7DDFBEE}|SnakeProject.csproj|C:\\Users\\Vu Phan\\source\\repos\\SnakeProject\\snakegame\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3BB60A-CE56-48C6-BAE7-A83DD7DDFBEE}|SnakeProject.csproj|solutionrelative:snakegame\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,101 +38,91 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Input.cs",
-              "DocumentMoniker": "C:\\Users\\Vu Phan\\source\\repos\\SnakeProject\\Input.cs",
-              "RelativeDocumentMoniker": "Input.cs",
-              "ToolTip": "C:\\Users\\Vu Phan\\source\\repos\\SnakeProject\\Input.cs",
-              "RelativeToolTip": "Input.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T18:32:22.829Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SnakeForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Vu Phan\\source\\repos\\SnakeProject\\SnakeForm.Designer.cs",
-              "RelativeDocumentMoniker": "SnakeForm.Designer.cs",
-              "ToolTip": "C:\\Users\\Vu Phan\\source\\repos\\SnakeProject\\SnakeForm.Designer.cs",
-              "RelativeToolTip": "SnakeForm.Designer.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAADwv0MAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T18:23:34.624Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SnakeForm.cs",
-              "DocumentMoniker": "C:\\Users\\Vu Phan\\source\\repos\\SnakeProject\\SnakeForm.cs",
-              "RelativeDocumentMoniker": "SnakeForm.cs",
-              "ToolTip": "C:\\Users\\Vu Phan\\source\\repos\\SnakeProject\\SnakeForm.cs",
-              "RelativeToolTip": "SnakeForm.cs",
-              "ViewState": "AgIAALwAAAAAAAAAAAA8wNgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T18:22:36.249Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Settings.cs",
-              "DocumentMoniker": "C:\\Users\\Vu Phan\\source\\repos\\SnakeProject\\Settings.cs",
-              "RelativeDocumentMoniker": "Settings.cs",
-              "ToolTip": "C:\\Users\\Vu Phan\\source\\repos\\SnakeProject\\Settings.cs",
-              "RelativeToolTip": "Settings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Vu Phan\\source\\repos\\SnakeProject\\SnakeGame\\Settings.cs",
+              "RelativeDocumentMoniker": "SnakeGame\\Settings.cs",
+              "ToolTip": "C:\\Users\\Vu Phan\\source\\repos\\SnakeProject\\SnakeGame\\Settings.cs",
+              "RelativeToolTip": "SnakeGame\\Settings.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T18:22:26.736Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T11:30:05.952Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Vu Phan\\source\\repos\\SnakeProject\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Vu Phan\\source\\repos\\SnakeProject\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Vu Phan\\source\\repos\\SnakeProject\\SnakeGame\\Program.cs",
+              "RelativeDocumentMoniker": "SnakeGame\\Program.cs",
+              "ToolTip": "C:\\Users\\Vu Phan\\source\\repos\\SnakeProject\\SnakeGame\\Program.cs",
+              "RelativeToolTip": "SnakeGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T18:20:56.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T11:29:15.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Input.cs",
+              "DocumentMoniker": "C:\\Users\\Vu Phan\\source\\repos\\SnakeProject\\SnakeGame\\Input.cs",
+              "RelativeDocumentMoniker": "SnakeGame\\Input.cs",
+              "ToolTip": "C:\\Users\\Vu Phan\\source\\repos\\SnakeProject\\SnakeGame\\Input.cs",
+              "RelativeToolTip": "SnakeGame\\Input.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T11:27:39.452Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Circle.cs",
-              "DocumentMoniker": "C:\\Users\\Vu Phan\\source\\repos\\SnakeProject\\Circle.cs",
-              "RelativeDocumentMoniker": "Circle.cs",
-              "ToolTip": "C:\\Users\\Vu Phan\\source\\repos\\SnakeProject\\Circle.cs",
-              "RelativeToolTip": "Circle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Vu Phan\\source\\repos\\SnakeProject\\SnakeGame\\Circle.cs",
+              "RelativeDocumentMoniker": "SnakeGame\\Circle.cs",
+              "ToolTip": "C:\\Users\\Vu Phan\\source\\repos\\SnakeProject\\SnakeGame\\Circle.cs",
+              "RelativeToolTip": "SnakeGame\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T18:20:40.231Z",
+              "WhenOpened": "2024-09-10T11:27:37.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SnakeForm.cs",
+              "DocumentMoniker": "C:\\Users\\Vu Phan\\source\\repos\\SnakeProject\\SnakeGame\\SnakeForm.cs",
+              "RelativeDocumentMoniker": "SnakeGame\\SnakeForm.cs",
+              "ToolTip": "C:\\Users\\Vu Phan\\source\\repos\\SnakeProject\\SnakeGame\\SnakeForm.cs",
+              "RelativeToolTip": "SnakeGame\\SnakeForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T10:39:23.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HighScores.cs",
+              "DocumentMoniker": "C:\\Users\\Vu Phan\\source\\repos\\SnakeProject\\SnakeGame\\HighScores.cs",
+              "RelativeDocumentMoniker": "SnakeGame\\HighScores.cs",
+              "ToolTip": "C:\\Users\\Vu Phan\\source\\repos\\SnakeProject\\SnakeGame\\HighScores.cs",
+              "RelativeToolTip": "SnakeGame\\HighScores.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwC8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T10:37:21.444Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "SnakeForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Vu Phan\\source\\repos\\SnakeProject\\SnakeForm.cs",
-              "RelativeDocumentMoniker": "SnakeForm.cs",
-              "ToolTip": "C:\\Users\\Vu Phan\\source\\repos\\SnakeProject\\SnakeForm.cs [Design]",
-              "RelativeToolTip": "SnakeForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Vu Phan\\source\\repos\\SnakeProject\\SnakeGame\\SnakeForm.cs",
+              "RelativeDocumentMoniker": "SnakeGame\\SnakeForm.cs",
+              "ToolTip": "C:\\Users\\Vu Phan\\source\\repos\\SnakeProject\\SnakeGame\\SnakeForm.cs [Design]",
+              "RelativeToolTip": "SnakeGame\\SnakeForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T18:19:32.613Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-09-10T10:32:26.202Z"
             }
           ]
         }
