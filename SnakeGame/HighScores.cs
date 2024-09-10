@@ -5,6 +5,7 @@ namespace SnakeProject.SnakeGame
 {
     public class HighScores
     {
+        //Need to create a separate txt.file to store high scores in a location where the application has write access
         private const string filePath = "C:\\Users\\Vu Phan\\AppData\\Local\\Highscores.txt";
 
         //Load high scores from a file
