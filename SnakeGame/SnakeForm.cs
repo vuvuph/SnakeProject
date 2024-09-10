@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SnakeProject.SnakeGame;
+using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Windows.Forms;
@@ -29,6 +30,7 @@ namespace Snake
         private void StartGame()
         {
             lblGameOver.Visible = false;
+            lblHighScore.Visible = false;
 
             //Set settings to default
             new Settings();
@@ -117,7 +119,7 @@ namespace Snake
             }
             else
             {
-                string gameOver = "Game over \nYour final score is: " + Settings.Score + "\nPress Enter to try again";
+                string gameOver = "Game Over \nYour final score is: " + Settings.Score + "\nPress Enter to try again";
                 lblGameOver.Text = gameOver;
                 lblGameOver.Visible = true;
             }
@@ -216,6 +218,25 @@ namespace Snake
         private void Die()
         {
             Settings.GameOver = true;
+
+            // Load current high scores
+            List<int> highScores = HighScores.LoadHighScores();
+
+            // Update high scores if the current score is high enough
+            HighScores.UpdateHighScores(Settings.Score, highScores);
+
+            // Display high scores
+            string highScoresText = "High Scores:\n";
+            for (int i = 0; i < highScores.Count; i++)
+            {
+                highScoresText += $"{i + 1}. {highScores[i]}\n";
+            }
+
+            lblGameOver.Text = $"Game Over \nYour final score is: {Settings.Score}\nPress Enter to try again\n\n";
+            lblGameOver.Visible = true;
+
+            lblHighScore.Text = $"{highScoresText}";
+            lblHighScore.Visible = true;
         }
     }
 }

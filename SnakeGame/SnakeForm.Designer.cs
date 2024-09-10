@@ -34,6 +34,7 @@
             this.lblScore = new System.Windows.Forms.Label();
             this.gameTimer = new System.Windows.Forms.Timer(this.components);
             this.lblGameOver = new System.Windows.Forms.Label();
+            this.lblHighScore = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pbCanvas)).BeginInit();
             this.SuspendLayout();
             // 
@@ -77,11 +78,23 @@
             this.lblGameOver.Text = "label2";
             this.lblGameOver.Visible = false;
             // 
+            // lblHighScore
+            // 
+            this.lblHighScore.AutoSize = true;
+            this.lblHighScore.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblHighScore.Location = new System.Drawing.Point(67, 168);
+            this.lblHighScore.Name = "lblHighScore";
+            this.lblHighScore.Size = new System.Drawing.Size(102, 37);
+            this.lblHighScore.TabIndex = 4;
+            this.lblHighScore.Text = "label2";
+            this.lblHighScore.Visible = false;
+            // 
             // SnakeForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(723, 437);
+            this.Controls.Add(this.lblHighScore);
             this.Controls.Add(this.lblGameOver);
             this.Controls.Add(this.lblScore);
             this.Controls.Add(this.label1);
@@ -103,6 +116,7 @@
         private System.Windows.Forms.Label lblScore;
         private System.Windows.Forms.Timer gameTimer;
         private System.Windows.Forms.Label lblGameOver;
+        private System.Windows.Forms.Label lblHighScore;
     }
 }
 
